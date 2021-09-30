@@ -1,4 +1,8 @@
 /*
+* Variables y tipos de datos
+* */
+
+/*
 * Variables
 * var -> variable mutable, puede cambiar el valor durante cualquier proceso
 * val -> constante, no puede cambiar el valor en ningún momento

@@ -1,3 +1,7 @@
+/*
+* Lectura con consola, concatenación, raw string y template string
+* */
+
 fun main () {
     // Lectura desde consola con el método readLine
     print("Ingresa tu nombre: ")
